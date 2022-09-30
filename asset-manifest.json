@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/symposym/static/js/main.608e08e3.js",
+    "main.js": "/symposym/static/js/main.8879d860.js",
     "static/media/spaceman.png": "/symposym/static/media/spaceman.5ec7fcfa9a803ead726c.png",
     "static/media/logoshrt.png": "/symposym/static/media/logoshrt.867fddd63eaafaae2c6c.png",
     "static/media/profile-img.png": "/symposym/static/media/profile-img.5179e446ac1a570ce69b.png",
     "index.html": "/symposym/index.html",
-    "main.608e08e3.js.map": "/symposym/static/js/main.608e08e3.js.map"
+    "main.8879d860.js.map": "/symposym/static/js/main.8879d860.js.map"
   },
   "entrypoints": [
-    "static/js/main.608e08e3.js"
+    "static/js/main.8879d860.js"
   ]
 }
