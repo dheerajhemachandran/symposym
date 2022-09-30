@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/react-gh-pages/static/js/main.5e6614e1.js",
+    "static/media/u-said-it-v13-1167.mp3": "/react-gh-pages/static/media/u-said-it-v13-1167.949cee7ea4a6ad9499db.mp3",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.jpg": "/react-gh-pages/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014fb6ce5980110.jpg",
+    "static/media/spaceman.png": "/react-gh-pages/static/media/spaceman.5ec7fcfa9a803ead726c.png",
+    "static/media/profile-img.png": "/react-gh-pages/static/media/profile-img.5179e446ac1a570ce69b.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.5e6614e1.js.map": "/react-gh-pages/static/js/main.5e6614e1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5e6614e1.js"
+  ]
+}
